@@ -1,5 +1,10 @@
 [
   {
+    "name": "PC (Cracked)",
+    "codename": "pcc",
+    "pictures": "images/windows.png"
+  },
+  {
     "name": "PC (Steam)",
     "codename": "pcs",
     "pictures": "images/steam.png"
@@ -16,12 +21,7 @@
   },
   {
     "name": "Nintendo Switch (Emulator)",
-    "codename": "nx",
+    "codename": "ryujinxyuzu",
     "pictures": "images/nx.png"
-  },
-  {
-    "name": "PC (Cracked)",
-    "codename": "pcc",
-    "pictures": "images/windows.png"
   }
 ]
