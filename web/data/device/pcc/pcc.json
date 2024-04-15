@@ -1,12 +1,12 @@
 {
-    "Name": "PC (Cracked)",
-    "Codename": "pcc",
-    "Maintainer": "An JDU For Cracked Version OF JD17",
-    "Pictures": "images/windows.png",
-    "Filename": "JD2017.exe",
-    "BuildDate": "1131150424",
-    "Android": -1,
-    "DownloadUrl": "https://drive.google.com/file/d/1tCK_HV2jbV_Ml8dQ-kTzbCEncNQTYt50/view?usp=drive_link",
-    "Download": "default",
+    "name": "PC (Cracked)",
+    "codename": "pcc",
+    "maintainer": "An JDU For Cracked Version OF JD17",
+    "pictures": "images/windows.png",
+    "filename": "JD2017.exe",
+    "buildDate": "1131150424",
+    "android": -1,
+    "downloadUrl": "https://drive.google.com/file/d/1tCK_HV2jbV_Ml8dQ-kTzbCEncNQTYt50/view?usp=drive_link",
+    "download": "default",
     "isAvailable": "true"
 }
