@@ -1,0 +1,13 @@
+{
+    "name": "Nintendo Switch",
+    "codename": "nx",
+    "maintainer": "This method spoofs the Ubisoft's Just Dance server with our server",
+    "pictures": "images/nx.png",
+    "filename": "",
+    "buildDate": "1131150424",
+    "android": -1,
+    "downloadUrl": "",
+    "download": "default",
+    "isAvailable": "false",
+    "availability": "Custom DNS Needed!"
+}
