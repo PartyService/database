@@ -2,26 +2,26 @@
   {
     "name": "PC (Steam)",
     "codename": "pcs",
-    "pictures": "image/steam.png"
+    "pictures": "images/steam.png"
   },
   {
     "name": "PC (Uplay)",
     "codename": "pcu",
-    "pictures": "image/uplay.png"
+    "pictures": "images/uplay.png"
   },
   {
     "name": "Nintendo Switch",
     "codename": "nx",
-    "pictures": "image/nx.png"
+    "pictures": "images/nx.png"
   },
   {
     "name": "Nintendo Switch (Emulator)",
     "codename": "nx",
-    "pictures": "image/nx.png"
+    "pictures": "images/nx.png"
   },
   {
     "name": "PC (Cracked)",
     "codename": "pcc",
-    "pictures": "image/windows.png"
+    "pictures": "images/windows.png"
   }
 ]
