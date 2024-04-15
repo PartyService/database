@@ -15,6 +15,11 @@
     "pictures": "image/nx.png"
   },
   {
+    "name": "Nintendo Switch (Emulator)",
+    "codename": "nx",
+    "pictures": "image/nx.png"
+  },
+  {
     "name": "PC (Cracked)",
     "codename": "pcc",
     "pictures": "image/windows.png"
