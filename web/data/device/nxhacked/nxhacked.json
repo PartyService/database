@@ -1,0 +1,13 @@
+{
+    "name": "Nintendo Switch (Hacked)",
+    "codename": "nxhacked",
+    "maintainer": "This method requires modifying the main file, this mod can be used on Ryujinx and Yuzu too (layeredfs)",
+    "pictures": "images/nx.png",
+    "filename": "",
+    "buildDate": "",
+    "android": -1,
+    "downloadUrl": "",
+    "download": "default",
+    "isAvailable": "false",
+    "availability": "LayeredFS"
+}
