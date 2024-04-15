@@ -1,0 +1,22 @@
+[
+  {
+    "name": "PC (Steam)",
+    "codename": "pcs",
+    "pictures": "image/steam.png"
+  },
+  {
+    "name": "PC (Uplay)",
+    "codename": "pcu",
+    "pictures": "image/uplay.png"
+  },
+  {
+    "name": "Nintendo Switch",
+    "codename": "nx",
+    "pictures": "image/nx.png"
+  },
+  {
+    "name": "PC (Cracked)",
+    "codename": "pcc",
+    "pictures": "image/windows.png"
+  }
+]
