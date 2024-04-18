@@ -23,5 +23,10 @@
     "name": "Nintendo Switch (Hacked)",
     "codename": "nxhacked",
     "pictures": "images/nx.png"
+  },
+  {
+    "name": "Custom UI (PC)",
+    "codename": "custui",
+    "pictures": "images/ui.png"
   }
 ]
