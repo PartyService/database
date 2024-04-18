@@ -1,0 +1,13 @@
+{
+    "name": "PC (Uplay)",
+    "codename": "pcc",
+    "maintainer": "Custom JDU specifically for the Steam version",
+    "pictures": "images/uplay.png",
+    "filename": "JD2017_steam.exe",
+    "buildDate": "1131100424",
+    "android": -1,
+    "downloadUrl": "https://jdparty-cdn.s3.us-west-1.amazonaws.com/download/JD2017_steam.exe",
+    "download": "default",
+    "isAvailable": "true",
+    "availability": ""
+}
