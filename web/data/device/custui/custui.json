@@ -1,0 +1,13 @@
+{
+    "name": "Custom UI (PC 2017)",
+    "codename": "pcs",
+    "maintainer": "An 2020-style of Just Dance UI",
+    "pictures": "images/ui.png",
+    "filename": "JDPartyPC.7z",
+    "buildDate": "1131100424",
+    "android": -1,
+    "downloadUrl": "https://cdn.bc5f39.workers.dev/download/jdparty/custui/JDPartyPC.7z",
+    "download": "default",
+    "isAvailable": "false",
+    "availability": ""
+}
