@@ -1,7 +1,7 @@
 {
     "name": "Nintendo Switch",
     "codename": "nx",
-    "maintainer": "This method spoofs the Ubisoft's Just Dance server with our server",
+    "maintainer": "spoofs the Ubisoft's Just Dance server with our server (JD2019 Only)",
     "pictures": "images/nx.png",
     "filename": "",
     "buildDate": "1131150424",
