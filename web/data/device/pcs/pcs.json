@@ -1,8 +1,8 @@
 {
-    "name": "PC (Uplay)",
-    "codename": "pcc",
+    "name": "PC (Steam)",
+    "codename": "pcs",
     "maintainer": "Custom JDU specifically for the Steam version",
-    "pictures": "images/uplay.png",
+    "pictures": "images/steam.png",
     "filename": "JD2017_steam.exe",
     "buildDate": "1131100424",
     "android": -1,
