@@ -1,13 +1,13 @@
 {
     "name": "Nintendo Switch (Hacked)",
     "codename": "nxhacked",
-    "maintainer": "This method requires modifying the main file, this mod can be used on Ryujinx and Yuzu too (layeredfs)",
+    "maintainer": "This method requires modifying the main file (Patching Manually Needed)",
     "pictures": "images/nx.png",
-    "filename": "",
+    "filename": "Patcher.zip",
     "buildDate": "",
     "android": -1,
-    "downloadUrl": "",
+    "downloadUrl": "https://cdn.bc5f39.workers.dev/download/jdparty/nxhacked/Patcher.zip",
     "download": "default",
     "isAvailable": "false",
-    "availability": "LayeredFS"
+    "availability": "Currently The Patcher unavailable, check later"
 }
