@@ -3,10 +3,10 @@
     "codename": "pcs",
     "maintainer": "Custom JDU specifically for the Steam version",
     "pictures": "images/steam.png",
-    "filename": "JD2017_steam.exe",
+    "filename": "JD2017.exe",
     "buildDate": "1131100424",
     "android": -1,
-    "downloadUrl": "https://jdparty-cdn.s3.us-west-1.amazonaws.com/download/JD2017_steam.exe",
+    "downloadUrl": "https://cdn.bc5f39.workers.dev/download/jdparty/pcs/JD2017.exe",
     "download": "default",
     "isAvailable": "true",
     "availability": ""
