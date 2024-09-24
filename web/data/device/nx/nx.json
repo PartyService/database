@@ -4,10 +4,10 @@
     "maintainer": "spoofs the Ubisoft's Just Dance server with our server (JD2019 Only)",
     "pictures": "images/nx.png",
     "filename": "",
-    "buildDate": "1131150424",
+    "buildDate": "24092024",
     "android": -1,
-    "downloadUrl": "",
+    "downloadUrl": "/dns",
     "download": "default",
-    "isAvailable": "false",
-    "availability": "Custom DNS Needed!"
+    "isAvailable": "true",
+    "availability": "Redirect To Another Page"
 }
