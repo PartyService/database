@@ -6,8 +6,8 @@
     "filename": "Patcher.zip",
     "buildDate": "",
     "android": -1,
-    "downloadUrl": "https://cdn.bc5f39.workers.dev/download/jdparty/nxhacked/Patcher.zip",
+    "downloadUrl": "https://github.com/PartyService/NXPatcher.git",
     "download": "default",
-    "isAvailable": "false",
-    "availability": "Currently The Patcher unavailable, check later"
+    "isAvailable": "true",
+    "availability": ""
 }
